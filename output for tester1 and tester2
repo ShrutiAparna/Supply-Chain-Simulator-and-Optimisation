@@ -1,0 +1,48 @@
+Output for tester1
+--Started simulation Tester1--
+time t=0
+time t=1
+2
+3
+0
+time t=2
+6
+time t=3
+4
+time t=7
+4
+time t=10
+6
+time t=14
+6
+time t=21
+3
+false
+time t=23
+true
+
+--End of simulation--
+
+Output for tester2
+--Started simulation Tester2--
+time t=0
+time t=1
+time t=5
+8
+time t=6
+3
+8
+time t=12
+4
+time t=25
+4
+time t=32
+true
+
+--End of simulation--
+true
+12
+22
+22
+31
+21.75
